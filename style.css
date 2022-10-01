@@ -40,5 +40,11 @@ label{
 
 .down{
     color: red;
-    
+}
+
+.fa-ethereum{
+    color: black;
+    background-color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 50%;
 }
