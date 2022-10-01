@@ -1,0 +1,44 @@
+body{
+    background-color: #141b29;
+    color: white;
+}
+
+#cotacao{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#variacao{
+    font-size: 1em;
+    border-radius: 25px;
+    border: 1px solid white;
+    width: 90px;
+    margin: auto;
+}
+.dates{
+    color: rgba(255,255,255,0.65);
+}
+
+.active{
+    background-color: #00bdb0;
+    color: white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+label{
+    font-size: smaller;
+}
+.percent{
+    padding-top:15px;
+}
+
+.up{
+    color: rgb(2, 215, 2);
+}
+
+.down{
+    color: red;
+    
+}
